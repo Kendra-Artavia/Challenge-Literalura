@@ -79,6 +79,9 @@ You will see the **Literalura Menu** in the terminal:
 * `principal/` — The `Principal` class which drives the console UI.
 * `LiteraluraApplication.java` — Main class using `CommandLineRunner`.
 
+👨‍🏫 Educational Project
+This project is part of the Oracle Next Education (ONE) program in collaboration with Alura Latam. Its main goal is to apply Java, Spring Boot, and database skills by building a functional book catalog integrated with an external API.
+
 ## 📝 License
 
 This project is for educational purposes and does not include a specific license. You can adapt or extend it as needed.
